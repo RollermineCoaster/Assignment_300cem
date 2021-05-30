@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment_300cem</string>
+    <string name="no_account">沒有帳號?</string>
+    <string name="login">登入</string>
+    <string name="logout">登出</string>
+    <string name="register">註冊</string>
+    <string name="registered">已經註冊?</string>
+    <string name="action_settings">設定</string>
+    <string name="action_refresh">刷新</string>
+    <string name="night_mode">夜間模式</string>
+    <string name="pls_login">請先登入</string>
+    <string name="logout_msg">您已登出</string>
+    <string name="phone_num">電話號碼</string>
+    <string name="pwd">密碼</string>
+    <string name="username">用戶名稱</string>
+    <string name="confirm_pwd">確認密碼</string>
+    <string name="login_missing_msg">請輸入您的電話號碼和密碼</string>
+    <string name="login_wait_msg">登入中...</string>
+    <string name="invalid_phone">無效的電話號碼</string>
+    <string name="login_wrong_msg">電話號碼或密碼錯誤</string>
+    <string name="login_ok_msg">登入成功</string>
+    <string name="buddy">友</string>
+    <string name="all_posts">所有留言</string>
+    <string-array name="areas">
+        <item>香港島</item>
+        <item>九　龍</item>
+        <item>新　界</item>
+    </string-array>
+    <string-array name="districts">
+        <item>@string/all_posts</item>
+        <item>中西區</item>
+        <item>灣仔</item>
+        <item>東區</item>
+        <item>南區</item>
+        <item>油尖旺</item>
+        <item>深水埗</item>
+        <item>九龍城</item>
+        <item>黃大仙</item>
+        <item>觀塘</item>
+        <item>葵青</item>
+        <item>荃灣</item>
+        <item>屯門</item>
+        <item>元朗</item>
+        <item>北區</item>
+        <item>大埔</item>
+        <item>沙田</item>
+        <item>西貢</item>
+        <item>離島</item>
+    </string-array>
+    <string name="register_missing_msg">請輸入所需的所有信息</string>
+    <string name="pwd_confirm_notmatch">密碼確認不符</string>
+    <string name="register_wait_msg">註冊中...</string>
+    <string name="register_ok_msg">註冊成功 您現在可以登入</string>
+    <string name="register_fail_msg">該電話號碼已註冊</string>
+    <string name="pls_select_district">請先選擇一個地區</string>
+    <string name="new_post">新留言</string>
+    <string name="confirm">確認</string>
+    <string name="write_sth">寫點東西</string>
+    <string name="post_ok_msg">已添加評論</string>
+    <string name="perm">權限</string>
+    <string name="granted_perm">已授予權限</string>
+    <string name="grant">授予</string>
+    <string name="update_loc">更新位置中...</string>
+    <string name="gps_off">GPS未啟用</string>
+    <string name="pls_perm">請在設定中授予權限</string>
+</resources>
